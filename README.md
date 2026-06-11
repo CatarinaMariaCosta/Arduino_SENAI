@@ -15,9 +15,3 @@ Também incluimos o a programação C/C++.
 Já o no VSCODE nos estilizamos, definimos cores, fontes e layouts, para um site que mostrasse a quantos graus o Servo Motor está.
 
 <img width="586" height="438" alt="image" src="https://github.com/user-attachments/assets/73221f21-ffcc-44f8-bd30-a20cde5c7940" />
-![Uploading image.png…]()
-
-
-E com o excelente trabalho do  professor Luiz Henrique Platini conseguimos o resultado abaixo:
-
-file:///c%3A/Users/I1D35/Documents/PLATINO/Arduino/index.html
